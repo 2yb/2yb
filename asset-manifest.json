@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lobster/static/css/main.39930517.chunk.css",
+    "main.js": "/lobster/static/js/main.172addf6.chunk.js",
+    "main.js.map": "/lobster/static/js/main.172addf6.chunk.js.map",
+    "runtime-main.js": "/lobster/static/js/runtime-main.1955d294.js",
+    "runtime-main.js.map": "/lobster/static/js/runtime-main.1955d294.js.map",
+    "static/js/2.2d76d6c6.chunk.js": "/lobster/static/js/2.2d76d6c6.chunk.js",
+    "static/js/2.2d76d6c6.chunk.js.map": "/lobster/static/js/2.2d76d6c6.chunk.js.map",
+    "static/js/3.777edd7c.chunk.js": "/lobster/static/js/3.777edd7c.chunk.js",
+    "static/js/3.777edd7c.chunk.js.map": "/lobster/static/js/3.777edd7c.chunk.js.map",
+    "index.html": "/lobster/index.html",
+    "static/css/main.39930517.chunk.css.map": "/lobster/static/css/main.39930517.chunk.css.map",
+    "static/js/2.2d76d6c6.chunk.js.LICENSE.txt": "/lobster/static/js/2.2d76d6c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1955d294.js",
+    "static/js/2.2d76d6c6.chunk.js",
+    "static/css/main.39930517.chunk.css",
+    "static/js/main.172addf6.chunk.js"
+  ]
+}
