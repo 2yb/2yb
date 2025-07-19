@@ -1,47 +1,80 @@
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2yb/2yb/main/assets/hero.svg" width="100%" alt="Hero Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">Frontend Developer | React & Next.js Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+fast+and+beautiful+UI;4+Years+Experience+in+React+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Building+beautiful+web+experiences;React%2C+Next.js+%2C+TypeScript+Specialist;Modern+UI+%2B+UX+Craftsman" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2yb/2yb/main/assets/bg-gradient-bar.svg" width="100%" />
 </p>
 
 ---
 
 ### 🛠 Tech Stack
-- 🔷 React.js | Next.js | JavaScript | TypeScript  
-- 🎨 Material UI | Tailwind | CSS3 | HTML5  
-- 🧪 Cypress | Jest | Enzyme  
-- ⚙️ Express.js | REST APIs  
-- ☁️ Vercel | GitHub Actions
-
----
-
-### 🚀 My Projects
-
-📌 **[Paste App](https://lobster-git-main-2ybs-projects.vercel.app/)**  
-> A pastebin-style app built with blazing fast UI and real-time sharing.
-
-📌 **[Hi There](https://hi-there-hyjkk6uh7-2ybs-projects.vercel.app/)**  
-> An animated, portfolio-style site with slick interactions and SEO optimization.
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2yb&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2yb&layout=compact&theme=radical" height="150" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,mui,express,jest,vercel,git,github,figma" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varunsaxena1912/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-2b72e0?style=for-the-badge&logo=vercel)](https://my-portfolio-one-puce-63.vercel.app/)
+📌 **[Paste App](https://lobster-git-main-2ybs-projects.vercel.app/)**
+
+> A fast, beautiful pastebin clone with real-time UI sharing.
+
+📌 **[Hi There](https://hi-there-hyjkk6uh7-2ybs-projects.vercel.app/)**
+
+> Personal portfolio with smooth animations, dark/light themes, and SEO optimization.
 
 ---
 
+### 🎧 Now Playing on Spotify
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2yb&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://spotify-now-playing-chi-seven.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- Replace with your own RSS feed if not using dev.to -->
+<!-- You can generate blog list with GitHub Actions too -->
+<!-- This block needs automation if you want it real-time -->
+
+- 🧠 [Coming soon: Medium Blog Integration]
+- ✍️ [Auto-feed setup help? I’ll script it for you.]
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/varunsaxena1912/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://my-portfolio-one-puce-63.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2b72e0?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:varunsaxena1912@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2yb/2yb/main/assets/footer-gradient.svg" width="100%" />
 </p>
