@@ -46,9 +46,3 @@
   </a>
 </p>
 
----
-
-<!-- Footer Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/2yb/2yb/main/assets/footer-gradient.svg" width="100%" />
-</p>
