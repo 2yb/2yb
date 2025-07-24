@@ -7,11 +7,6 @@
 
 ---
 
-<!-- Gradient Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/2yb/2yb/main/assets/bg-gradient-bar.svg" width="100%" />
-</p>
-
 ---
 
 ### 🛠 Tech Stack
