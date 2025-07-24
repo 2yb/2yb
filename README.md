@@ -1,8 +1,3 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/2yb/2yb/main/assets/hero.svg" width="100%" alt="Hero Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">Frontend Developer | React & Next.js Specialist</h3>
 
@@ -36,27 +31,6 @@
 📌 **[Hi There](https://hi-there-hyjkk6uh7-2ybs-projects.vercel.app/)**
 
 > Personal portfolio with smooth animations, dark/light themes, and SEO optimization.
-
----
-
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-now-playing-chi-seven.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-</p>
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- Replace with your own RSS feed if not using dev.to -->
-<!-- You can generate blog list with GitHub Actions too -->
-<!-- This block needs automation if you want it real-time -->
-
-- 🧠 [Coming soon: Medium Blog Integration]
-- ✍️ [Auto-feed setup help? I’ll script it for you.]
-
----
 
 ### 📫 Connect With Me
 
