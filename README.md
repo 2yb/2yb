@@ -19,6 +19,14 @@
 
 ### 🚀 Featured Projects
 
+📌 **[ChalkAI](https://chalk-ai-tan.vercel.app/)**
+
+> AI-powered visual lessons with an interactive whiteboard and narrated playback.
+
+📌 **[TrialFlow](https://trialflow-tau.vercel.app/overview)**
+
+> Explore the live TrialFlow demo.
+
 📌 **[Paste App](https://lobster-git-main-2ybs-projects.vercel.app/)**
 
 > A fast, beautiful pastebin clone with real-time UI sharing.
