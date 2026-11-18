@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Varun</h1>
-<h3 align="center">Frontend developer building polished web apps and AI-assisted products</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=560&lines=React+%26+Next.js+experiences;AI-powered+learning+tools;Thoughtful+workflow+products" alt="Building React and Next.js experiences, AI-powered learning tools, and thoughtful workflow products" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Varun Saxena — full-stack product engineer focused on end-to-end system design, AI products, and technical leadership" />
 </p>
 
 <p align="center">
+  <a href="https://my-portfolio-one-puce-63.vercel.app/">
+    <img src="https://img.shields.io/badge/Hi%2C%20I'm-Varun%20Saxena-111827?style=for-the-badge&labelColor=111827" alt="Hi, I'm Varun Saxena" />
+  </a>
   <a href="https://chalk-ai-tan.vercel.app/">
     <img src="https://img.shields.io/badge/AI-Groq%20%2B%20GPT--OSS-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq and GPT-OSS" />
   </a>
@@ -61,6 +61,7 @@ A personal portfolio with smooth animations, light/dark themes, and SEO optimiza
 #### ChalkAI · AI lesson pipeline
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"darkMode": true, "background": "#080b18", "primaryColor": "#172554", "primaryTextColor": "#e2e8f0", "primaryBorderColor": "#22d3ee", "lineColor": "#a78bfa", "secondaryColor": "#271447", "tertiaryColor": "#111827", "fontFamily": "Inter, Segoe UI, sans-serif"}}}%%
 flowchart LR
     learner([Learner]) --> studio["Tutor Studio<br/>Next.js + React"]
     studio -->|Topic and level| api["Generate lesson API"]
@@ -76,11 +77,19 @@ flowchart LR
     timeline --> board["Animated whiteboard"]
     studio -->|Follow-up question| followup["Follow-up API"]
     followup --> groq
+
+    classDef client fill:#101a2d,stroke:#22d3ee,color:#e2e8f0
+    classDef ai fill:#3b1d12,stroke:#fb923c,color:#fff7ed
+    classDef logic fill:#21133a,stroke:#c084fc,color:#f5f3ff
+    class learner,studio,board,speech client
+    class groq ai
+    class service,cache,validate,visuals,timeline,followup logic
 ```
 
 #### TrialFlow · shared workflow state
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"darkMode": true, "background": "#080b18", "primaryColor": "#172554", "primaryTextColor": "#e2e8f0", "primaryBorderColor": "#22d3ee", "lineColor": "#a78bfa", "secondaryColor": "#123329", "tertiaryColor": "#111827", "fontFamily": "Inter, Segoe UI, sans-serif"}}}%%
 flowchart LR
     operator([Operations team]) --> app["Next.js application"]
     app --> pages["Overview · Studies · Sites<br/>Documents · Work queue"]
@@ -90,16 +99,14 @@ flowchart LR
     actions --> store
     store --> derived["Readiness and dashboard metrics"]
     derived --> pages
+
+    classDef user fill:#101a2d,stroke:#22d3ee,color:#e2e8f0
+    classDef workflow fill:#122b27,stroke:#34d399,color:#ecfdf5
+    classDef data fill:#2b2040,stroke:#c084fc,color:#f5f3ff
+    class operator,app,pages user
+    class store,actions,derived workflow
+    class seed data
 ```
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=2yb&show_icons=true&hide_border=true&theme=transparent" alt="GitHub activity statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2yb&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
-</p>
 
 ---
 
